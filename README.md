@@ -3,6 +3,4 @@ and average discount across multiple dimensions such as product category, sub-ca
 identify high-performing product lines like Phones and Office Supplies, and compare revenue across U.S. states through a geographical heat map. The dashboard also segments data by region (Central, East, South, West), 
 enabling more focused regional analysis.
 
-In addition to performance analysis, the dashboard includes a forecasting view that tracks historical sales data from early 2019 to 2021 and identifies sales trends over time. Using line charts, it highlights peaks and 
-drops in order volumes and helps predict future demand. The state-wise breakdown of sales in the forecasting view adds a layer of strategic insight for targeted planning. Overall, this dashboard empowers decision-makers 
-with both real-time insights and forward-looking trends, making it a powerful tool for data-driven retail management.
+Overall, this dashboard empowers decision-makers with both real-time insights and forward-looking trends, making it a powerful tool for data-driven retail management.
